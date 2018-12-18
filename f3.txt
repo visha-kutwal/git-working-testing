@@ -1,2 +1,2 @@
-this is file3 txt file
-
+<<<<<<< HEAD
+this is file3 
